@@ -1,4 +1,4 @@
-## ![wave](https://github.com/bergaminevinicius/bergaminevinicius/blob/main/vinicius.gif)
+## ![wave](https://github.com/bergaminevinicius/bergaminevinicius/blob/main/Jozoor1.gif)
 
 - 🌱 Estudando Desenvolvedor Full Stack
 - 📫 Contate-me no email: vinicius_berg@icloud.com
