@@ -1,4 +1,6 @@
-## ![wave](https://github.com/bergaminevinicius/bergaminevinicius/blob/main/Jozoor1.gif)
+<div align="center">
+<img src="https://github.com/bergaminevinicius/bergaminevinicius/blob/main/Jozoor1.gif" alt="wave"/>
+</div>
 
 - 🌱 Estudando Desenvolvedor Full Stack
 - 📫 Contate-me no email: vinicius_berg@icloud.com
