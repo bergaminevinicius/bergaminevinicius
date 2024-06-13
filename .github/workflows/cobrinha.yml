@@ -35,6 +35,7 @@ jobs:
       # Adiciona, comita e faz push do gráfico gerado
       - name: Commit and Push
         env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           REPO: bergaminevinicius/bergaminevinicius
         run: |
           git config --global user.name 'github-actions[bot]'
