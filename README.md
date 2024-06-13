@@ -13,3 +13,4 @@
 </a>
 </div>
 
+![Snake animation](https://github.com/bergaminevinicius/bergaminevinicius/blob/main/snake.svg)
